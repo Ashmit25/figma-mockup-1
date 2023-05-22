@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Montserrat:wght@100&display=swap');
+* {
+    font-family: Karla;
+}
+
+.maindiv {
+    padding: 50px 90px 50px 90px;
+    
+    
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+nav h3 {
+    font-size: 25px;
+}
+.sign-in {
+    border-radius: 7.5px;
+    background-color: #4756DF;
+    text-align: center;
+    padding: 11.5px 40px 11.5px 40px;
+    color: white;
+    cursor: pointer;
+    border: none;
+    font-size: 15px;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.main {
+    display: flex;
+    
+    justify-content: space-evenly;
+    padding-top: 50px;
+    
+}
+
+.main img {
+    padding-top: 25px;
+    padding-right: 10px;
+    height: 350px;
+    width: 410px;
+}
+
+.main1 {
+    padding-right: 175px;
+    margin-right: 75px;
+    width: 450px;
+    
+}
+.main1 h1 {
+    font-size: 48px;
+}
+
+.main1 p {
+    padding-right: 40px;
+    font-size: 18px;
+    color: #838383;
+    
+}
+
+.buttons {
+    padding-top: 7.5px;
+    justify-content: space-between;
+    display: flex;
+    
+    width: 300px;
+}
+.sign-up {
+    background-color: #4756DFF2;
+    border: none;
+    border-radius: 7.5px;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;    
+}
+
+.learn {
+    background: transparent;
+    border: 1px solid grey;
+    border-radius: 7.5px;
+    padding: 10px 30px 10px 30px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.main2 {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.main2 h2 {
+    font-weight: 700;
+    font-size: 35px;
+    
+}
+
+.learning {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25px;
+}
+
+.learn1txt {
+    width: 314.5px;
+    margin-top: -1.5px;
+    padding: 1px 5px 1px 10px;
+    box-shadow: 0 2px 5px 0 grey;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+.learn2txt {
+    width: 314.5px;
+    margin-top: -1.5px;
+    padding: 1px 5px 1px 10px;
+    box-shadow: 0 2px 5px 0 grey;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+.learn3txt {
+    width: 314.5px;
+    margin-top: -1.5px;
+    padding: 1px 5px 1px 10px;
+    box-shadow: 0 2px 5px 0 grey;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+.learnm {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+    padding-bottom: 15px;
+}
